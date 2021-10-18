@@ -1,0 +1,46 @@
+.rectangulo{
+    background-color: rgb(255, 255, 255);
+    border: 0px solid black;
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 1;
+    bottom: 1;
+}
+
+p{
+    color: #D3CBCB;
+    font-family: "Roboto", sans-serif;
+}
+
+p1{
+    color: #8a2be2;
+    font-family: "Roboto", sans-serif;
+    padding: 20px;
+}
+
+p2{
+    font-family: "Roboto", sans-serif;
+    padding: 20px;
+}
+
+img{
+    width: 26px;
+    height: 26px;
+}
+
+p3{
+    margin: -10px;
+}
+
+#avatar{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-image: url("./imagenes/supergirl.jpg");
+    background-size: cover;
+    margin: 50px;
+}
